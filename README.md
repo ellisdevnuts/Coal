@@ -1,21 +1,17 @@
 <br>
 
 <p align="center">
-  <img src="stable.svg" width="140" alt="Coal stable" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="beta.svg" width="140" alt="Coal beta" />
-</p>
-
-<p align="center">
-  <sub>stable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; beta</sub>
+  <img src="logo.svg" width="100" alt="Coal" />
 </p>
 
 <br>
 
-<h1 align="center">Coal</h1>
+<p align="center">
+  <b>Coal</b>
+</p>
 
 <p align="center">
-  a chat app for people who just want to talk
+  A chat app for people who just want to talk.
 </p>
 
 <p align="center">
@@ -25,8 +21,8 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-early%20testing-gray?style=flat-square" />
-  <img src="https://img.shields.io/badge/platform-linux%20%7C%20windows-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-testes%20iniciais-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/plataforma-linux%20%7C%20windows-gray?style=flat-square" />
   <img src="https://img.shields.io/badge/stack-electron%20%2B%20supabase-gray?style=flat-square" />
 </p>
 
