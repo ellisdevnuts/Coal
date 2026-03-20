@@ -1,14 +1,18 @@
 <br>
 
 <p align="center">
-  <img src="logo.svg" width="100" alt="Coal" />
+  <img src="stable.svg" width="140" alt="Coal stable" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="beta.svg" width="140" alt="Coal beta" />
+</p>
+
+<p align="center">
+  <sub>stable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; beta</sub>
 </p>
 
 <br>
 
-<p align="center">
-  <b>Coal</b>
-</p>
+<h1 align="center">Coal</h1>
 
 <p align="center">
   a chat app for people who just want to talk
